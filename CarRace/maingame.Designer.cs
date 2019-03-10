@@ -171,7 +171,7 @@
             // 
             // racebtn
             // 
-            this.racebtn.Font = new System.Drawing.Font("Microsoft YaHei UI", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.racebtn.Font = new System.Drawing.Font("Microsoft YaHei UI", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.racebtn.Location = new System.Drawing.Point(558, 478);
             this.racebtn.Name = "racebtn";
             this.racebtn.Size = new System.Drawing.Size(153, 95);
