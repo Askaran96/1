@@ -73,7 +73,7 @@ namespace carrace
         {
             timer1.Stop();
             timer1.Dispose();
-            MessageBox.Show("the First position is car no " + winnercar);//its is for the message pop up
+            MessageBox.Show("The First Position is car no " + winnercar);//its is for the message pop up
             foreach (var guy in racers)
             {
                 guy.win(winnercar);
@@ -146,6 +146,11 @@ namespace carrace
         }
 
         private void player2Label_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void playerrb2_CheckedChanged(object sender, EventArgs e)
         {
 
         }

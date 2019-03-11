@@ -75,10 +75,10 @@
             this.playerrb1.Checked = true;
             this.playerrb1.Location = new System.Drawing.Point(9, 476);
             this.playerrb1.Name = "playerrb1";
-            this.playerrb1.Size = new System.Drawing.Size(85, 17);
+            this.playerrb1.Size = new System.Drawing.Size(37, 17);
             this.playerrb1.TabIndex = 6;
             this.playerrb1.TabStop = true;
-            this.playerrb1.Text = "radioButton1";
+            this.playerrb1.Text = "gill";
             this.playerrb1.UseVisualStyleBackColor = true;
             this.playerrb1.CheckedChanged += new System.EventHandler(this.playerrb1_CheckedChanged);
             // 
@@ -87,21 +87,22 @@
             this.playerrb2.AutoSize = true;
             this.playerrb2.Location = new System.Drawing.Point(9, 503);
             this.playerrb2.Name = "playerrb2";
-            this.playerrb2.Size = new System.Drawing.Size(85, 17);
+            this.playerrb2.Size = new System.Drawing.Size(63, 17);
             this.playerrb2.TabIndex = 7;
             this.playerrb2.TabStop = true;
-            this.playerrb2.Text = "radioButton2";
+            this.playerrb2.Text = "askaran";
             this.playerrb2.UseVisualStyleBackColor = true;
+            this.playerrb2.CheckedChanged += new System.EventHandler(this.playerrb2_CheckedChanged);
             // 
             // playerrb3
             // 
             this.playerrb3.AutoSize = true;
             this.playerrb3.Location = new System.Drawing.Point(9, 527);
             this.playerrb3.Name = "playerrb3";
-            this.playerrb3.Size = new System.Drawing.Size(85, 17);
+            this.playerrb3.Size = new System.Drawing.Size(49, 17);
             this.playerrb3.TabIndex = 8;
             this.playerrb3.TabStop = true;
-            this.playerrb3.Text = "radioButton3";
+            this.playerrb3.Text = "simer";
             this.playerrb3.UseVisualStyleBackColor = true;
             this.playerrb3.CheckedChanged += new System.EventHandler(this.playerrb3_CheckedChanged);
             // 
@@ -110,9 +111,9 @@
             this.minimumBetLabel.AutoSize = true;
             this.minimumBetLabel.Location = new System.Drawing.Point(12, 453);
             this.minimumBetLabel.Name = "minimumBetLabel";
-            this.minimumBetLabel.Size = new System.Drawing.Size(35, 13);
+            this.minimumBetLabel.Size = new System.Drawing.Size(38, 13);
             this.minimumBetLabel.TabIndex = 9;
-            this.minimumBetLabel.Text = "label2";
+            this.minimumBetLabel.Text = "minbet";
             // 
             // label2
             // 
