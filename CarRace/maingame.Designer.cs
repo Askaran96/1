@@ -196,18 +196,18 @@
             this.player1Label.AutoSize = true;
             this.player1Label.Location = new System.Drawing.Point(309, 453);
             this.player1Label.Name = "player1Label";
-            this.player1Label.Size = new System.Drawing.Size(35, 13);
+            this.player1Label.Size = new System.Drawing.Size(69, 13);
             this.player1Label.TabIndex = 17;
-            this.player1Label.Text = "label5";
+            this.player1Label.Text = "scorebord gill";
             // 
             // player2Label
             // 
             this.player2Label.AutoSize = true;
             this.player2Label.Location = new System.Drawing.Point(309, 478);
             this.player2Label.Name = "player2Label";
-            this.player2Label.Size = new System.Drawing.Size(35, 13);
+            this.player2Label.Size = new System.Drawing.Size(101, 13);
             this.player2Label.TabIndex = 18;
-            this.player2Label.Text = "label6";
+            this.player2Label.Text = "scoreboard askaran";
             this.player2Label.Click += new System.EventHandler(this.player2Label_Click);
             // 
             // player3Label
@@ -215,9 +215,9 @@
             this.player3Label.AutoSize = true;
             this.player3Label.Location = new System.Drawing.Point(309, 527);
             this.player3Label.Name = "player3Label";
-            this.player3Label.Size = new System.Drawing.Size(35, 13);
+            this.player3Label.Size = new System.Drawing.Size(87, 13);
             this.player3Label.TabIndex = 19;
-            this.player3Label.Text = "label7";
+            this.player3Label.Text = "scoreboard simer";
             // 
             // timer1
             // 
